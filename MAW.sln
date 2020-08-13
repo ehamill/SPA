@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAW", "MAW\MAW.csproj", "{1557CF2D-15CD-4356-8BBA-A5AD9FF91E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1557CF2D-15CD-4356-8BBA-A5AD9FF91E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1557CF2D-15CD-4356-8BBA-A5AD9FF91E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1557CF2D-15CD-4356-8BBA-A5AD9FF91E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1557CF2D-15CD-4356-8BBA-A5AD9FF91E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C79A53B8-CC2D-4917-B504-028BD0FD80CC}
+	EndGlobalSection
+EndGlobal

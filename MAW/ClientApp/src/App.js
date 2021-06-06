@@ -23,27 +23,6 @@ export default class App extends Component {
         <AuthorizeRoute path='/CityView' component={CityView} />
         <Route path={ApplicationPaths.ApiAuthorizationPrefix} component={ApiAuthorizationRoutes} />
         </Layout>
-        <Layout>
-            <Route exact path='/' component={Home} />
-            <Route path='/counter' component={Counter} />
-            <AuthorizeRoute path='/fetch-data' component={FetchData} />
-            <AuthorizeRoute path='/CityView' component={CityView} />
-            <Route path={ApplicationPaths.ApiAuthorizationPrefix} component={ApiAuthorizationRoutes} />
-        </Layout>
-        <Layout>
-            <Route exact path='/' component={Home} />
-            <Route path='/counter' component={Counter} />
-            <AuthorizeRoute path='/fetch-data' component={FetchData} />
-            <AuthorizeRoute path='/CityView' component={CityView} />
-            <Route path={ApplicationPaths.ApiAuthorizationPrefix} component={ApiAuthorizationRoutes} />
-        </Layout>
-        <Layout>
-            <Route exact path='/' component={Home} />
-            <Route path='/counter' component={Counter} />
-            <AuthorizeRoute path='/fetch-data' component={FetchData} />
-            <AuthorizeRoute path='/CityView' component={CityView} />
-            <Route path={ApplicationPaths.ApiAuthorizationPrefix} component={ApiAuthorizationRoutes} />
-        </Layout>
     );
   }
 }
